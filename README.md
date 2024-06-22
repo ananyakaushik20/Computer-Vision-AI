@@ -1,6 +1,6 @@
 # Image Recognition using Pre-trained Neural Network
 
-This project demonstrates how to use a pre-trained neural network model for image recognition tasks. By leveraging the power of models trained on large datasets, we can classify images with high accuracy without the need for extensive training.
+This project demonstrates how to use a pre-trained neural network model for image recognition tasks. By leveraging models trained on large datasets, we can classify images with high accuracy without the need for extensive training.
 
 ## Table of Contents
 - [Introduction](#introduction)
